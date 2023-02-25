@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/Android/Project/Haaland Wallpaper/Haaland/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/back.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/download.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/home.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/more.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/rate.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/drawable/share.xml" value="0.195" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/activity_download.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/activity_final.xml" value="0.22" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/fragment_download.xml" value="0.22" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Program Files/Android/Project/neymar/neymar/app/src/main/res/layout/simple_wallpaper.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
